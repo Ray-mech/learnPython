@@ -1,7 +1,7 @@
 # Pythonのお勉強をしましょ☆
 
-ブラウザ上で手軽にコーディング! → [paiza.io](https://paiza.io/ja)  
-
+ブラウザ上で手軽にコーディング! → [paiza.io](https://paiza.io/ja)  
+* * *
 ## 内容
 ### 第１回
 - 四則演算  
