@@ -19,23 +19,23 @@ else:
     answer = a
 string = str(a) + "の絶対値は" + str(answer) + "です！"
 print(string)
-```  
+```
+
 ### 第２回予告
 - リスト  
 - 繰り返し(for, while, ..)
 - （予定）
 
-
 ## 練習問題 
 1. 3人の身長と体重がそれぞれ与えられるので，「3人それぞれのBMI」「身長の平均」「体重の平均」を表示するプログラムをつくってください  
-<img src="https://latex.codecogs.com/gif.latex?\textup{BMI}&space;=&space;\frac{\textup{weight[kg]}}{(\textup{height[m]})^2}"/>  
+![alt](https://latex.codecogs.com/png.latex?%5Ctextup%7BBMI%7D%3D%5Cfrac%7B%5Ctextup%7Bweight%5Bkg%5D%7D%7D%7B%28%5Ctextup%7Bheight%5Bm%5D%7D%29%5E2%7D)
 ```python3
 #3人の身長・体重データはこれをコピペしてね
-#身長
+#身長(cm)
 al = 163
 bl = 176
 cl = 169
-#体重
+#体重(kg)
 aw = 59
 bw = 65
 cw = 52
