@@ -1,4 +1,5 @@
-# Pythonのお勉強をしましょ☆  
+# Pythonのお勉強をしましょ☆  
+このページは研究時間などで
 
 ブラウザ上で手軽にコーディング! → [paiza.io](https://paiza.io/ja)  
 * * *
@@ -27,9 +28,7 @@ print(string)
 
 ## 練習問題 
 1. 3人の身長と体重がそれぞれ与えられるので，「3人それぞれのBMI」「身長の平均」「体重の平均」を表示するプログラムをつくってください  
-```math
-BMI = 体重(kg)/(身長(m))^2
-```
+<img src="https://latex.codecogs.com/gif.latex?\textup{BMI}&space;=&space;\frac{\textup{weight[kg]}}{(\textup{height[m]})^2}"/>  
 ```python3
 #3人の身長・体重データはこれをコピペしてね
 #身長
