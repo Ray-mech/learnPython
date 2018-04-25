@@ -1,9 +1,9 @@
-# Pythonのお勉強をしましょ☆
+# Pythonのお勉強をしましょ☆  
 
 ブラウザ上で手軽にコーディング! → [paiza.io](https://paiza.io/ja)  
 * * *
-## 内容
-### 第１回
+## 内容  
+### 第１回  
 - 四則演算  
 - 変数とは  
 - 型(int,str, ..)  
@@ -18,7 +18,7 @@ else:
     answer = a
 string = str(a) + "の絶対値は" + str(answer) + "です！"
 print(string)
-```
+```  
 ### 第２回予告
 - リスト  
 - 繰り返し(for, while, ..)
@@ -44,4 +44,4 @@ cw = 52
 
 ## その他
 
- [編集用ページ](https://github.com/Ray-mech/learnPython/edit/master/index.md)
+ [編集用ページ](https://github.com/Ray-mech/learnPython/edit/master/index.md)  
