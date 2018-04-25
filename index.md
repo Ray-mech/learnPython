@@ -28,7 +28,7 @@ print(string)
 
 ## 練習問題 
 1. 3人の身長と体重がそれぞれ与えられるので，「3人それぞれのBMI」「身長の平均」「体重の平均」を表示するプログラムをつくってください  
-![alt](https://latex.codecogs.com/png.latex?%5Ctextup%7BBMI%7D%3D%5Cfrac%7B%5Ctextup%7Bweight%5Bkg%5D%7D%7D%7B%28%5Ctextup%7Bheight%5Bm%5D%7D%29%5E2%7D)
+![alt](https://latex.codecogs.com/svg.latex?%5Ctextup%7BBMI%7D%3D%5Cfrac%7B%5Ctextup%7Bweight%5Bkg%5D%7D%7D%7B%28%5Ctextup%7Bheight%5Bm%5D%7D%29%5E2%7D)
 ```python3
 #3人の身長・体重データはこれをコピペしてね
 #身長(cm)
