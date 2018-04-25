@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pythonのお勉強をしましょう
 
 You can use the [editor on GitHub](https://github.com/Ray-mech/learnPython/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
