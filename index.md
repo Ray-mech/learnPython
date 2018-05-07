@@ -53,6 +53,8 @@ height = [163, 176, 169, 185, 170, 173, 164, 166, 172, 158]
 #体重(kg)
 weight = [59, 65, 52, 70, 63, 57, 64, 52, 58, 50]
 ```
+
+
 ## その他
 
  [編集用ページ](https://github.com/Ray-mech/learnPython/edit/master/index.md)  
