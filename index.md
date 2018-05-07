@@ -61,5 +61,5 @@ L1 = [1, 2, 3, 4, 5, "A", "B", "C"]
 
 
 ## その他  
-[練習問題答え](./answer.html)  
+[練習問題答え](./answer.html)  
 [編集用ページ](https://github.com/Ray-mech/learnPython/edit/master/index.md)  
