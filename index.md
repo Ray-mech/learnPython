@@ -10,17 +10,7 @@
 - 変数とは  
 - 型(int,str, ..)  
 - 条件分岐(if)  
-- 演習問題  
-```python
-#四則演算と条件分岐を用いてaの絶対値を表示するプログラムをつくろう
-a = -25
-if a < 0:
-    answer = -a
-else:
-    answer = a
-string = str(a) + "の絶対値は" + str(answer) + "です！"
-print(string)
-```
+- [演習問題](./1.html)  
 
 ### 第２回  
 - リスト  
